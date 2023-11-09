@@ -1,0 +1,2 @@
+# simplecore
+Simple Spring Core
